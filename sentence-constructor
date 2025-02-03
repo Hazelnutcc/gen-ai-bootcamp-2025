@@ -1,1 +1,24 @@
+## Users Interation: 
+This provides the interface for instance Website / APIs / Chatbots, etc 
+through which users input queries and receive AI-generated output and 
+responses, ensuring accessibility and instant user engagement.
 
+## AI Models:
+This hosts and manages large language models (LLMs) such as Chat-GPT, 
+Meta AI, Claude, deepseek, etc or Vertex AI, AWS SageMaker, performing 
+inference and generating outputs based on user inputs.
+
+## Integration:
+This serves as the communication hub between frontend and 
+backend components, utilizing APIs,message brokers, and middleware 
+to manage data flow and AI interactions.
+
+## Data Storage & Data Pipelines:
+This includes data storage, processing pipelines, and governance 
+mechanisms that support the data ingestion and transformation 
+of both structured and unstructured data.
+
+## Infrastructure - Compute & Networking Resources:
+This provides compute resources, networking components, 
+and security measures essential for hosting AI services and ensuring 
+system scalability.
