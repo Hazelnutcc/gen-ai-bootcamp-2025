@@ -34,3 +34,15 @@ Models used will be upgradable for new features without significant disruption.
 Budget Constraint: Must stay within a $500,000 infrastructure and deployment budget annually.
 Infrastructure Constraint: Limited on-premises hardware; cloud-based solutions are preferred.
 
+## System Dependency
+Cost management is critical, with tools for monitoring resource usage and optimizing cloud spending.
+The system depends on secure data handling to ensure customer data is encrypted and compliant with regulations like GDPR.
+
+
+## Technical Uncertainty
+A key decision is whether to use pre-trained models (e.g., GPT) or fine-tune custom models for specific customer support scenarios.
+Stakeholders must evaluate the trade-offs between real-time processing (e.g., for live chat) and batch processing (e.g., for email support).
+
+
+## Components
+Key components are Customer Data Sources (e.g., support tickets, chat logs), Query Understanding (e.g., NLP models), and Response Generation (e.g., GPT-based models).
