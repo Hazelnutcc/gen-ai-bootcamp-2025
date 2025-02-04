@@ -18,3 +18,17 @@ https://www.promptingguide.ai/techniques/meta-prompting
 
 
 ## Claude
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+
+## facts
+- Claude 3.5 Sonnet, part of the Claude 3 model family released by Anthropic in 2024.
+- Claude runs on its own proprietary large language model developed by Anthropic. It's not based on OpenAI's GPT architecture but rather a separate system designed with a strong emphasis on ethical AI, safety, and interpretability. 
+- Anthropic hasn't publicly confirmed whether Claude operates as a single monolithic model or as a dynamic ensemble system.
+
+
+## DeepSeek
+https://github.com/deepseek-ai/DeepSeek-LLM
+
+## Facts
+- DeepSeek-V3, an AI assistant independently developed by the Chinese company DeepSeek Inc.
+- Specific architecture or version of the model is proprietary and not publicly disclosed.
